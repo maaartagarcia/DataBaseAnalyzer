@@ -1,0 +1,2 @@
+Upload your database here, that way it'll be easier for testing the Analyzer.
+Just use relative paths!
