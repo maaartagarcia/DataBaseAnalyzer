@@ -28,3 +28,11 @@ Remember:
 
 Execution Example:
 *As we have mentioned, by running "py main.py 1 1 1 1", we can perform analyses on the four possible characteristics.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Implementation Details:
+* It's fully implemented in Python
+* It uses a pickle import for faster parameters identification, as it's a tool prepared to be scaled
+--> For adding functionalities, we would just add the functionality name to the imported dictionary and few more things
+* Every module follows the exact same structure
