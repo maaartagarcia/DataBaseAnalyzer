@@ -36,3 +36,8 @@ Implementation Details:
 * It uses a pickle import for faster parameters identification, as it's a tool prepared to be scaled
 --> For adding functionalities, we would just add the functionality name to the imported dictionary and few more things
 * Every module follows the exact same structure
+
+Requirements:
+pip install scikit-image
+pip install opencv-python
+pip install pymupdf
